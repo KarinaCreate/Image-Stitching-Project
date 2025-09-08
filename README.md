@@ -8,6 +8,7 @@
 
 #### Пример панорамного склеивания
 
+[<img src="results/night_city.jpeg" width="700"/>](results/night_city.jpeg)
 
 #### Принцип работы
 1. Нахождение ключевых точек с помощью ORB
@@ -18,8 +19,18 @@
 6. Финальное изображение обрезаеться для удаления черных полос
 
 #### Запуск программы
-git clone https://github.com/your_username/your_project.git
 
+1. Клонируйте репозиторий:
+```bash
+git clone https://github.com/KarinaCreate/your-repo-name.git
+```
+
+2. Установите зависимости:
+```bash
 pip install -r requirements.txt
+```
 
+3. Запустите основной скрипт:
+```bash
 python Image_Stitching.py
+```
