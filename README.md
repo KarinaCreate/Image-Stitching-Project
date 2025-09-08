@@ -22,7 +22,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/KarinaCreate/your-repo-name.git
+git clone https://github.com/KarinaCreate/Image-Stitching-Project
+cd Image-Stitching-Project
 ```
 
 2. Установите зависимости:
