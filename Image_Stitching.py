@@ -10,10 +10,10 @@ import imageio
 import requests
 from io import BytesIO
 
-# Выберите какой набор использовать (поменяйте на нужный)
-selected_set = 'grocery_shelf'  # нужный набор
+# Выберать нужный набор
+selected_set = 'night_city'  # нужный набор
 
-# Базовый URL вашего репозитория
+# Базовый URL репозитория
 base_url = 'https://github.com/KarinaCreate/Image-Stitching-Project/raw/master/images/'
 
 # Автоматически создаем URLs для выбранного набора
@@ -143,4 +143,4 @@ cropped_final_result8 = img_as_ubyte(cropped_final_result)
 
 # Сохраняем изображение с использованием PIL
 cropped_final_result = Image.fromarray(cropped_final_result8)
-cropped_final_result.save('C:/Users/user/Desktop/cropped_final_result.jpeg')
+cropped_final_result.save('C:/Users/user/Desktop/Image Stitching/results/night_city.jpeg')
