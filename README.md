@@ -4,7 +4,7 @@
 #### Пример входных изображений
 Для работы изображения было разрезано на 4 части и далее алгоритм соединял его вновь в целостную картину.
 
-[<img src="images/night_city_1.jpg" width="100"/>](images/night_city_1.jpg) [<img src="images/night_city_2.jpg" width="108"/>](images/night_city_2.jpg) [<img src="images/night_city_3.jpg" width="123"/>](images/night_city_3.jpg) [<img src="images/night_city_4.jpg" width="126"/>](images/night_city_4.jpg)
+[<img src="images/night_city_1.jpg" width="200"/>](images/night_city_1.jpg) [<img src="images/night_city_2.jpg" width="215"/>](images/night_city_2.jpg) [<img src="images/night_city_3.jpg" width="245"/>](images/night_city_3.jpg) [<img src="images/night_city_4.jpg" width="250"/>](images/night_city_4.jpg)
 
 #### Пример панорамного склеивания
 
